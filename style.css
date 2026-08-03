@@ -5,7 +5,7 @@ h1{
   text-transform:uppercase;
   text-align:center;
 }
-nav li{
+nav li a{
   text-align:center;
   text-transform:uppercase;
   color:rgb(45,89,125);
